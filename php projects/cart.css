@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+body{
+    width: 1130px;
+    height:50% ;
+
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .tableform{
+    width: 100%;
+    height: 60%;
+    background-color: aqua;
+    padding: 56px 45px;
+    margin: 34px 56px;
+    font-size: 18px;
+
+}
+table{
+    width: 90%;
+    height: 50%;
+    border: 5px red;
+}
+thead{
+    width:60% ;
+    border:  1px darkolivegreen;
+    background-color: lightblue;
+    padding: 7px;
+}
+tr, td{
+    border: 2px solid lightcoral;
+    padding-left: 7px;
+    text-align: center;
+    margin: 3px;
+    
+}
+ table tr button{
+    width: 54%;
+    height: 70%;
+    color:white;
+    background-color: black;
+    
+
+}
+.grandtotal{
+   float:right;
+    width: 40%;
+    height: 25%;
+    background-color: cadetblue;
+}
+.header{
+    border: 1px solid red;
+    width: 100%;
+    padding: 12px;
+    margin-top: 34px;
+}
+.fa-bell{
+    color:black;
+    float:right;
+    padding: 14px;
+    margin: 3px;
+  
+}
+.fa-user{
+    color: black;
+    float:right;
+    padding: 14px;
+    margin: 3px;
+}
+.fa-search{
+    color: #000;  }
+.fa-heart{
+
+ color: #000;
+float:right;
+padding: 14px;
+margin: 3px; }
+.far{
+    width: 34px;
+    height: 14px ;
+
+}
+.fa-shopping-cart{
+    color: #fff;
+    padding: 9px;
+}
